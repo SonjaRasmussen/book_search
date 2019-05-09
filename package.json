@@ -1,0 +1,25 @@
+{
+  "name": "book_search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonjaRasmussen/book_search.git"
+  },
+  "author": "Sonja Rasmussen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SonjaRasmussen/book_search/issues"
+  },
+  "homepage": "https://github.com/SonjaRasmussen/book_search#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "if-env": "^1.0.4",
+    "mongoose": "^5.5.6"
+  }
+}
